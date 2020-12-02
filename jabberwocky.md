@@ -1,3 +1,6 @@
+# Jabberwocky
+### by Lewis Carroll
+
 <pre>
   "Beware the Jabberwock, my son!
     The jaws that bite, the claws that catch!
@@ -7,4 +10,6 @@
 
   'Twas brillig, and the slithy toves
     Did gyre and gimble in the wabe:
+  All mimsy were the borogoves,
+    And the mome raths outgrabe.
 </pre>
