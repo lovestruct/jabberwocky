@@ -16,4 +16,5 @@
 
   One, two! One, two! And through and through
     The vorpal blade went snicker-snack!
+  He left it dead, and with its head
 </pre>
