@@ -13,4 +13,7 @@
     The Jabberwock, with eyes of flame,
   Came whiffling through the tulgey wood,
     And burbled as it came!
+
+  One, two! One, two! And through and through
+    The vorpal blade went snicker-snack!
 </pre>
