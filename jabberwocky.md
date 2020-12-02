@@ -18,4 +18,6 @@
     The vorpal blade went snicker-snack!
   He left it dead, and with its head
     He went galumphing back.
+
+  "And hast thou slain the Jabberwock? Come to my arms, my beamish boy!
 </pre>
