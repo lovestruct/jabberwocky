@@ -8,4 +8,7 @@
     Long time the manxome foe he sought—
   So rested he by the Tumtum tree
     And stood awhile in thought.
+
+  And, as in uffish thought he stood,
+    The Jabberwock, with eyes of flame,
 </pre>
