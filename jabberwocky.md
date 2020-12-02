@@ -20,4 +20,6 @@
     He went galumphing back.
 
   "And hast thou slain the Jabberwock? Come to my arms, my beamish boy!
+  O frabjous day! Callooh! Callay!"
+    He chortled in his joy.
 </pre>
